@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76d9086567ae2f64ba7468cebe7fd239, type: 3}
+  m_Name: KEPHERA
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: "EXILIADO EN EL LADO OSCURO DE LA LUNA.\r EL IMPERIO LO CAZA PARA\r
+    EJECUTARLO POR PROMOVER LA REBELI\xD3N."
+  CardImage: {fileID: 21300000, guid: f284d5e3842637342979d085f065d75a, type: 3}
+  CardBody: {fileID: 21300000, guid: b6d5b53d0cfab1048a440c64e835991f, type: 3}
+  AttackIcon: {fileID: 21300000, guid: 3ca7f877727b7ab4dbe6a72d8231f8d0, type: 3}
+  ShieldIcon: {fileID: 21300000, guid: 14560bf95fb565942b6867a245049d63, type: 3}
+  DestrezaIcon: {fileID: 21300000, guid: 35548d8bc0b51fd4e900975a823bcfda, type: 3}
+  IngenioIcon: {fileID: 21300000, guid: 05da5fd7a6b3fc64385613c994200a04, type: 3}
+  RecuadroIcon: {fileID: 21300000, guid: dff2544cf7ce64140b71999d5205c535, type: 3}
+  Condicion: 0
+  CardType: 3
+  MovementCost: 1
+  MaxHealth: 55
+  Attack: 45
+  Escudo: 15
+  Destreza: 20
+  Ingenio: 55
+  AttacksForOneTurn: 1
+  Soldier: 0
+  Taunt: 0
+  Charge: 0
+  CreatureScriptName: 
+  specialCreatureAmount: 0
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 0

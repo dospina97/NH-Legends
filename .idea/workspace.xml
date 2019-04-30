@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a5007e9-1369-45cd-acf6-975623881d58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Deck.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Deck.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HandVisual.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HandVisual.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Legend.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Legend.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TableVisual.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/TableVisual.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TimerandEndTurnButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/TimerandEndTurnButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Efectos/PROTECCIÓN.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Efectos/PROTECCIÓN.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Efectos/PSICOIMPACTO.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Efectos/PSICOIMPACTO.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/B11/ANÚ, EL MÍSTICO.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/B11/ANÚ, EL MÍSTICO.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/B11/BAKU, EL CONSEJERO.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/B11/BAKU, EL CONSEJERO.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/B11/TORA, EL COMANDANTE.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/B11/TORA, EL COMANDANTE.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/B11/XEMU, EL MAESTRO.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/B11/XEMU, EL MAESTRO.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Hambures/AHA AMBARA.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Hambures/AHA AMBARA.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Hambures/AHA TEHURA.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Hambures/AHA TEHURA.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Hambures/BAHL ZAB'AK.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Hambures/BAHL ZAB'AK.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Hambures/KEMBO TAHUM.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Hambures/KEMBO TAHUM.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebelde.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebelde.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebeldes/ENZO.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebeldes/ENZO.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebeldes/KEPHERA.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebeldes/KEPHERA.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebeldes/PETE LOMO AZUL.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebeldes/PETE LOMO AZUL.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebeldes/SUNDIATA KEITA.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Rebeldes/SUNDIATA KEITA.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Regimen/CANCILLER COOPER.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Regimen/CANCILLER COOPER.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Regimen/CAPITÁN H1-217.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Regimen/CAPITÁN H1-217.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Regimen/CORONEL GORO.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Regimen/CORONEL GORO.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Regimen/DUX HONG CHI.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Regimen/DUX HONG CHI.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Reptilianos/CORONEL SALAMANDER.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Reptilianos/CORONEL SALAMANDER.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Reptilianos/CROCK.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Reptilianos/CROCK.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Reptilianos/MINISTRO VESTUZ.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Reptilianos/MINISTRO VESTUZ.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Reptilianos/WAIKO.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO Assets/Personajes/Reptilianos/WAIKO.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/BattleZone.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/BattleZone.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/DraggingTestScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/DraggingTestScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/InventoryScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/InventoryScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StoreScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StoreScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Commands/DrawACardCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Commands/DrawACardCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dragging/DragCreatureAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dragging/DragCreatureAttack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dragging/DragCreatureOnTable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dragging/DragCreatureOnTable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dragging/Draggable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dragging/Draggable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dragging/DraggingActions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dragging/DraggingActions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Logic/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Logic/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Logic/TurnManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Logic/TurnManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Logic/TurnsAndAI/PlayerTurnMaker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Logic/TurnsAndAI/PlayerTurnMaker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Visual/GlobalSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Visual/GlobalSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Visual/HandVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Visual/HandVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Visual/MessageManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Visual/MessageManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Visual/OneCreatureManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Visual/OneCreatureManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Visual/PlayerArea.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Visual/PlayerArea.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Visual/TableVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Visual/TableVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1581601000">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.296" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/BattleZone.unity">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NH-Legends" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NH-Legends" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NH-Legends" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NH-Legends" type="462c0819:PsiDirectoryNode" />
+              <item name="Assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NH-Legends" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NH-Legends" type="462c0819:PsiDirectoryNode" />
+              <item name="Assets" type="462c0819:PsiDirectoryNode" />
+              <item name="Scenes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a5007e9-1369-45cd-acf6-975623881d58" name="Default Changelist" comment="" />
+      <created>1555287083922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555287083922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3295107" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Assistant" order="2" weight="0.33514774" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/BattleZone.unity">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

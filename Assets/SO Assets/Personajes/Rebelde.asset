@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0780860afb86e8a4bb61f4e6e2a40a38, type: 3}
+  m_Name: Rebelde
+  m_EditorClassIdentifier: 
+  Class: 0
+  ClassName: Rebel
+  MaxHealth: 450
+  HeroPowerName: HeroPower2Face
+  AvatarImage: {fileID: 21300000, guid: 10a5396d5f6aca349b7d6ced7106662b, type: 3}
+  HeroPowerIconImage: {fileID: 21300000, guid: a8eba2243ef5162418feeb88c06e5662, type: 3}
+  AvatarBGImage: {fileID: 0}
+  HeroPowerBGImage: {fileID: 0}
+  AvatarBGTint:
+    serializedVersion: 2
+    rgba: 0
+  HeroPowerBGTint:
+    serializedVersion: 2
+    rgba: 0
+  ClassCardTint:
+    serializedVersion: 2
+    rgba: 4278588594
+  ClassRibbonsTint:
+    serializedVersion: 2
+    rgba: 0

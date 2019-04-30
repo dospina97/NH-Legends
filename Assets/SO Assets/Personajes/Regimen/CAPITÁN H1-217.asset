@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76d9086567ae2f64ba7468cebe7fd239, type: 3}
+  m_Name: "CAPIT\xC1N H1-217"
+  m_EditorClassIdentifier: 
+  characterAsset: {fileID: 0}
+  Description: "PRIMER ALTO MANDO ROB\xD3TICO DEL R\xC9GIMEN. DIRIGI\xD3 UN EJ\xC9RCITO
+    DE ROBOTS AUTORREPLICABLES."
+  CardImage: {fileID: 21300000, guid: c230239b7529adb42a742e75078825d1, type: 3}
+  CardBody: {fileID: 21300000, guid: e4aae9863ccf9414e8f5b4f6c49747bf, type: 3}
+  AttackIcon: {fileID: 21300000, guid: daa93563e9b4da5408f3b49f7cb3eff1, type: 3}
+  ShieldIcon: {fileID: 21300000, guid: c49892a20012b8a469fae6de2f8377fa, type: 3}
+  DestrezaIcon: {fileID: 21300000, guid: dbe0088e2e69cd84ca3761a12253e72d, type: 3}
+  IngenioIcon: {fileID: 21300000, guid: 27fa0bc494631824693cef9275a66058, type: 3}
+  RecuadroIcon: {fileID: 21300000, guid: 5b16d966c574b9244bb8ed76beb3c4bd, type: 3}
+  Condicion: 0
+  CardType: 2
+  MovementCost: 1
+  MaxHealth: 65
+  Attack: 50
+  Escudo: 30
+  Destreza: 45
+  Ingenio: 25
+  AttacksForOneTurn: 2
+  Soldier: 0
+  Taunt: 0
+  Charge: 0
+  CreatureScriptName: 
+  specialCreatureAmount: 0
+  SpellScriptName: 
+  specialSpellAmount: 0
+  Targets: 0
