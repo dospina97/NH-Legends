@@ -12,7 +12,7 @@ public class GameOverCommand : Command{
     {
         this.looser = looser;
         gameOverCount++;
-        Analytics.CustomEvent("Deads", new Dictionary<string, object> {
+        Analytics.CustomEvent("Deaths", new Dictionary<string, object> {
             {"NumberofGameovers",gameOverCount}
 
              });
