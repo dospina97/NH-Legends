@@ -10,20 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 76d9086567ae2f64ba7468cebe7fd239, type: 3}
-  m_Name: MECANISMO DA'HO
+  m_Name: MINAS TERRESTRES
   m_EditorClassIdentifier: 
   characterAsset: {fileID: 0}
-  Description: "PODEROSO MECANISMO DE LOS HAMBURES QUE PRODUCE GRAN DA\xD1O."
-  CardImage: {fileID: 21300000, guid: 5465a112031ae0241b323b0d6be6a0cb, type: 3}
-  CardBody: {fileID: 21300000, guid: 78c2fcac4ba4551419666342b7828dd4, type: 3}
-  AttackIcon: {fileID: 21300000, guid: d978d08d05564624b9996ca67358bab1, type: 3}
-  ShieldIcon: {fileID: 21300000, guid: 83515cca4e346ca4783f6ad794e671c4, type: 3}
+  Description: "APLICA 20 DE DA\xD1O A TODOS LOS ENEMIGOS. "
+  CardImage: {fileID: 21300000, guid: 00f19dba94cb2ed439aa0e949cc6907f, type: 3}
+  CardBody: {fileID: 21300000, guid: b0ff55123ff067d4487ce7f4047a70f1, type: 3}
+  AttackIcon: {fileID: 21300000, guid: b6d2fc58f4d1ba841b6118de791d1206, type: 3}
+  ShieldIcon: {fileID: 21300000, guid: c2b5675a323bd7843bb38bcab342c426, type: 3}
   DestrezaIcon: {fileID: 0}
   IngenioIcon: {fileID: 0}
   RecuadroIcon: {fileID: 21300000, guid: 05da5fd7a6b3fc64385613c994200a04, type: 3}
   Condicion: 0
-  CardType: 4
-  MovementCost: 2
+  CardType: 3
+  MovementCost: 1
   MaxHealth: 0
   Attack: 0
   Escudo: 0
@@ -35,6 +35,6 @@ MonoBehaviour:
   Charge: 0
   CreatureScriptName: 
   specialCreatureAmount: 0
-  SpellScriptName: DealDamageToTarget
-  specialSpellAmount: 80
+  SpellScriptName: DamageAllOponentCreatures
+  specialSpellAmount: 20
   Targets: 2

@@ -10,20 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 76d9086567ae2f64ba7468cebe7fd239, type: 3}
-  m_Name: "PROTECCI\xD3N"
+  m_Name: DESTREZA
   m_EditorClassIdentifier: 
   characterAsset: {fileID: 0}
-  Description: AUMENTA LA ARMADURA EN 10.
-  CardImage: {fileID: 21300000, guid: 2b44358eaa8daee4a9be99d62e379184, type: 3}
+  Description: DA +1 DE MOVIMIENTO POR 1 TURNO.
+  CardImage: {fileID: 21300000, guid: ff1054406752ce549828d847ddf2f0bc, type: 3}
   CardBody: {fileID: 21300000, guid: 3272df608e8d90241839dbd187710156, type: 3}
   AttackIcon: {fileID: 21300000, guid: c216f5b3aa6dace488d31a75cdbacde2, type: 3}
   ShieldIcon: {fileID: 21300000, guid: 478d971aead27e34db575d42f8e54b12, type: 3}
   DestrezaIcon: {fileID: 0}
   IngenioIcon: {fileID: 0}
-  RecuadroIcon: {fileID: 21300000, guid: eccd4b949017f164fb000e39b9a1bc14, type: 3}
-  Condicion: 45
-  CardType: 1
-  MovementCost: 1
+  RecuadroIcon: {fileID: 21300000, guid: cbd4b7c489382c449bd563e6cb205bf3, type: 3}
+  Condicion: 0
+  CardType: 0
+  MovementCost: 0
   MaxHealth: 0
   Attack: 0
   Escudo: 0
@@ -35,6 +35,6 @@ MonoBehaviour:
   Charge: 0
   CreatureScriptName: 
   specialCreatureAmount: 0
-  SpellScriptName: SpellEffect
-  specialSpellAmount: 0
+  SpellScriptName: GiveMovementBonus
+  specialSpellAmount: 1
   Targets: 0

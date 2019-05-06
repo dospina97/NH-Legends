@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: CORONEL GORO
   m_EditorClassIdentifier: 
   characterAsset: {fileID: 0}
-  Description: "EL M\xC1S TEMIDO COMBATIENTE DEL R\xC9GIMEN. ARRASA EL CAMPO DE BATALLA
-    CON SUS MEJORAS BIOMEC\xC1NICAS."
+  Description: "PUEDE ATACAR CUANDO SE LLAMA. ES TEMIDO POR SUS MEJORAS BIOMEC\xC1NICAS."
   CardImage: {fileID: 21300000, guid: 95c19d7cdc5d87840886678d65fb5247, type: 3}
   CardBody: {fileID: 21300000, guid: e4aae9863ccf9414e8f5b4f6c49747bf, type: 3}
   AttackIcon: {fileID: 21300000, guid: daa93563e9b4da5408f3b49f7cb3eff1, type: 3}
@@ -33,8 +32,8 @@ MonoBehaviour:
   AttacksForOneTurn: 1
   Soldier: 0
   Taunt: 0
-  Charge: 0
-  CreatureScriptName: BiteOwner
+  Charge: 1
+  CreatureScriptName: 
   specialCreatureAmount: 0
   SpellScriptName: 
   specialSpellAmount: 0

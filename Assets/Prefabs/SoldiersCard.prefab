@@ -441,7 +441,7 @@ Transform:
   m_GameObject: {fileID: 1563319334070892565}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 3.224, y: 1.9267144, z: 0.026175018}
-  m_LocalScale: {x: 1.7, y: 1.7, z: 0.01}
+  m_LocalScale: {x: 2, y: 2, z: 0.01}
   m_Children:
   - {fileID: 1563319333015364457}
   - {fileID: 6007215196450580195}
@@ -524,7 +524,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TurnThisOffWhenPreviewing: {fileID: 1563319333663100639}
   TargetPosition: {x: 0, y: 2.5, z: 0}
-  TargetScale: 7
+  TargetScale: 8
   previewGameObject: {fileID: 4272945131689903913}
   ActivateInAwake: 1
 --- !u!1 &1563319334201323488
@@ -1367,11 +1367,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1563319334070892564}
     m_Modifications:
-    - target: {fileID: 6070516568335847466, guid: 444f28714c10a49458ee9d1b2d5fd3d4,
-        type: 3}
-      propertyPath: m_Name
-      value: SoldiersCardPreview
-      objectReference: {fileID: 0}
     - target: {fileID: 6453176022751207227, guid: 444f28714c10a49458ee9d1b2d5fd3d4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1426,6 +1421,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6070516568335847466, guid: 444f28714c10a49458ee9d1b2d5fd3d4,
+        type: 3}
+      propertyPath: m_Name
+      value: SoldiersCardPreview
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1931724293646261616, guid: 444f28714c10a49458ee9d1b2d5fd3d4, type: 3}

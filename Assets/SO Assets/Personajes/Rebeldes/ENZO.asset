@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: ENZO
   m_EditorClassIdentifier: 
   characterAsset: {fileID: 0}
-  Description: "\xDALTIMO SOBREVIVIENTE DEL HOLOCAUSTO IMP QUE NO HA\r PERDIDO LA
-    RAZ\xD3N. ES BUSCADO POR SU FEROCIDAD EN BATALLA."
+  Description: "PUEDE ATACAR EL TURNO QUE SE LLAMA. ES EL \xDALTIMO SOBREVIVIENTE
+    DEL HOLOCAUSTO IMP QUE NO HA\r PERDIDO LA RAZ\xD3N. "
   CardImage: {fileID: 21300000, guid: 3a21df810dd679e418604ee32646b004, type: 3}
   CardBody: {fileID: 21300000, guid: b6d5b53d0cfab1048a440c64e835991f, type: 3}
   AttackIcon: {fileID: 21300000, guid: 3ca7f877727b7ab4dbe6a72d8231f8d0, type: 3}
@@ -33,7 +33,7 @@ MonoBehaviour:
   AttacksForOneTurn: 1
   Soldier: 0
   Taunt: 0
-  Charge: 0
+  Charge: 1
   CreatureScriptName: 
   specialCreatureAmount: 0
   SpellScriptName: 

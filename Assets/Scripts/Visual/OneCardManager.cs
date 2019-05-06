@@ -249,10 +249,11 @@ public class OneCardManager : MonoBehaviour {
             EscudoText.text = cardAsset.Escudo.ToString(); ;
 
             // 5) Ingenio
-            IngenioText.text = cardAsset.Ingenio.ToString(); 
+                 
+            IngenioText.text = cardAsset.AttacksForOneTurn.ToString(); 
 
             // 6) Destreza
-            DestrezaText.text = cardAsset.Destreza.ToString();
+            DestrezaText.text = cardAsset.MovementCost.ToString();
 
             // 6) Iconos
 
@@ -286,7 +287,7 @@ public class OneCardManager : MonoBehaviour {
             AttackIcon.sprite = cardAsset.AttackIcon;
             ShieldIcon.sprite = cardAsset.ShieldIcon;
             RecuadroIconI.sprite = cardAsset.RecuadroIcon;
-            ConditionText.text = cardAsset.Condicion.ToString() + "+";
+            ConditionText.text = cardAsset.MovementCost.ToString() + "+";
 
         }
 

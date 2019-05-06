@@ -975,7 +975,7 @@ Transform:
   m_GameObject: {fileID: 5992365416130327699}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.14, y: -4.909922, z: 0}
-  m_LocalScale: {x: 1.7, y: 1.7, z: 0.01}
+  m_LocalScale: {x: 2, y: 2, z: 0.01}
   m_Children:
   - {fileID: 5992365415108620271}
   - {fileID: 1569157414513601125}
@@ -1424,7 +1424,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TurnThisOffWhenPreviewing: {fileID: 0}
   TargetPosition: {x: 0, y: 2.5, z: 0}
-  TargetScale: 7
+  TargetScale: 8
   previewGameObject: {fileID: 5992365414739355067}
   ActivateInAwake: 1
 --- !u!114 &1853057616861917835
@@ -1459,10 +1459,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5992365416130327698}
     m_Modifications:
-    - target: {fileID: 1187240302, guid: 6e44200b55910f54a89437035f7c191a, type: 3}
-      propertyPath: m_Name
-      value: SpellCardPreview
-      objectReference: {fileID: 0}
     - target: {fileID: 1187240304, guid: 6e44200b55910f54a89437035f7c191a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.9753334
@@ -1523,6 +1519,10 @@ PrefabInstance:
       propertyPath: CardBodyImage
       value: 
       objectReference: {fileID: 5992365414730521019}
+    - target: {fileID: 1187240302, guid: 6e44200b55910f54a89437035f7c191a, type: 3}
+      propertyPath: m_Name
+      value: SpellCardPreview
+      objectReference: {fileID: 0}
     - target: {fileID: 836116689, guid: 6e44200b55910f54a89437035f7c191a, type: 3}
       propertyPath: m_SortingLayerID
       value: -1238485649

@@ -10,8 +10,6 @@ using DG.Tweening;
 
 public class DamageEffect : MonoBehaviour {
 
-    // an array of sprites with different blood splash graphics
-    //public Sprite[] Splashes;
 
     // a UI image to show the blood splashes
     public Image DamageImage;
@@ -22,12 +20,6 @@ public class DamageEffect : MonoBehaviour {
 
     // The text component to show the amount of damage taken by target like: "-2"
     public Text AmountText;
-
-  //  void Awake()
-    //{
-        // pick a random image
-      //  DamageImage.sprite = Splashes[Random.Range(0, Splashes.Length)];  
-    //}
 
     // A Coroutine to control the fading of this damage effect
     private IEnumerator ShowDamageEffect()
@@ -54,18 +46,25 @@ public class DamageEffect : MonoBehaviour {
    
     public static void CreateDamageEffect(Vector3 position, int amount)
     {
+
+        if (amount == 0)
+            return;
+
         // Instantiate a DamageEffect from prefab
-        GameObject newDamageEffect = new GameObject();
-        newDamageEffect = GameObject.Instantiate(DamageEffectTest.Instance.DamagePrefab, position, Quaternion.identity) as GameObject;
-
-        //--!--!  GameObject newDamageEffect = GameObject.Instantiate(GlobalSettings.Instance.DamageEffectPrefab, position, Quaternion.identity) as GameObject;
-
+        GameObject newDamageEffect = GameObject.Instantiate(GlobalSettings.Instance.DamageEffectPrefab, position, Quaternion.identity) as GameObject;
         // Get DamageEffect component in this new game object
         DamageEffect de = newDamageEffect.GetComponent<DamageEffect>();
+
+        if (amount < 0) //CURACION
+        {
+            de.AmountText.text = "+" + (-amount).ToString();
+            de.DamageImage.color = Color.green;
+        }
+        else { 
         // Change the amount text to reflect the amount of damage dealt
         de.AmountText.text = "-"+amount.ToString();
         // start a coroutine to fade away and delete this effect after a certain time
         de.StartCoroutine(de.ShowDamageEffect());
-       
+        }
     }
 }

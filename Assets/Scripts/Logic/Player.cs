@@ -26,6 +26,12 @@ public class Player : MonoBehaviour, ICharacter
         get{ return movementThisTurn;}
         set
         {
+
+            if (value < 0)
+                movementThisTurn = 0;
+            else if (value > PArea.ManaBar.Crystals.Length)
+                movementThisTurn = PArea.ManaBar.Crystals.Length;
+            else
             movementThisTurn = value;
            // PArea.ManaBar.TotalCrystals = movementThisTurn;
             new UpdateManaCrystalsCommand(this, movementThisTurn, movementLeft).AddToQueue();
@@ -39,7 +45,12 @@ public class Player : MonoBehaviour, ICharacter
         { return movementLeft;}
         set
         {
-            movementLeft = value;
+            if (value < 0)
+                movementLeft = 0;
+            else if (value > PArea.ManaBar.Crystals.Length)
+                movementLeft = PArea.ManaBar.Crystals.Length;
+            else
+                movementLeft = value;
             //PArea.ManaBar.AvailableCrystals = manaLeft;
             new UpdateManaCrystalsCommand(this, MovementThisTurn, movementLeft).AddToQueue();
             if (TurnManager.Instance.whoseTurn == this)
@@ -104,12 +115,6 @@ public class Player : MonoBehaviour, ICharacter
         MovementLeft += amount;
     }
 
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.D))
-            DrawACard();
-    }
-
     public void OnTurnEnd()
     {
         if(EndTurnEvent != null)
@@ -140,6 +145,8 @@ public class Player : MonoBehaviour, ICharacter
         else
         {
             // No hay cartas en el deck
+            new DealDamageCommand(TurnManager.Instance.whoseTurn.PlayerID, 2, TurnManager.Instance.whoseTurn.Health - 10).AddToQueue();
+            TurnManager.Instance.whoseTurn.Health -= 25;
         }
 
     }

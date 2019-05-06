@@ -816,7 +816,7 @@ Transform:
   m_GameObject: {fileID: 7650620585771437363}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.7, y: 1.7, z: 0.01}
+  m_LocalScale: {x: 2, y: 2, z: 0.01}
   m_Children:
   - {fileID: 7650620584679216719}
   - {fileID: 3225591226232918981}
@@ -899,7 +899,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TurnThisOffWhenPreviewing: {fileID: 7650620585105718265}
   TargetPosition: {x: 0, y: 2.5, z: 0}
-  TargetScale: 7
+  TargetScale: 8
   previewGameObject: {fileID: 7650620584511544347}
   ActivateInAwake: 1
 --- !u!114 &8501357681049970429
@@ -1171,10 +1171,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7650620585771437362}
     m_Modifications:
-    - target: {fileID: 1187240302, guid: 6e44200b55910f54a89437035f7c191a, type: 3}
-      propertyPath: m_Name
-      value: SpellCardPreview
-      objectReference: {fileID: 0}
     - target: {fileID: 1187240304, guid: 6e44200b55910f54a89437035f7c191a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.9753334
@@ -1214,6 +1210,10 @@ PrefabInstance:
     - target: {fileID: 1187240304, guid: 6e44200b55910f54a89437035f7c191a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1187240302, guid: 6e44200b55910f54a89437035f7c191a, type: 3}
+      propertyPath: m_Name
+      value: SpellCardPreview
       objectReference: {fileID: 0}
     - target: {fileID: 836116689, guid: 6e44200b55910f54a89437035f7c191a, type: 3}
       propertyPath: m_SortingLayerID

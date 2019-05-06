@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: CANCILLER COOPER
   m_EditorClassIdentifier: 
   characterAsset: {fileID: 0}
-  Description: "DIPLOM\xC1TICO DEL R\xC9GIMEN. SU\r ASTUCIA LE PERMITI\xD3 ENFRENTAR
-    PUEBLOS ALIADOS Y\r ASESINAR GRANDES FIGURAS."
+  Description: "DIPLOM\xC1TICO DEL R\xC9GIMEN. PUEDE ATACAR HASTA 3 VECES/TURNO."
   CardImage: {fileID: 21300000, guid: f73c766273391ca4082359efe478327a, type: 3}
   CardBody: {fileID: 21300000, guid: e4aae9863ccf9414e8f5b4f6c49747bf, type: 3}
   AttackIcon: {fileID: 21300000, guid: daa93563e9b4da5408f3b49f7cb3eff1, type: 3}
@@ -25,16 +24,16 @@ MonoBehaviour:
   Condicion: 0
   CardType: 2
   MovementCost: 1
-  MaxHealth: 60
-  Attack: 45
+  MaxHealth: 100
+  Attack: 25
   Escudo: 35
   Destreza: 35
   Ingenio: 35
-  AttacksForOneTurn: 1
+  AttacksForOneTurn: 3
   Soldier: 0
   Taunt: 0
   Charge: 0
-  CreatureScriptName: BiteOwner
+  CreatureScriptName: 
   specialCreatureAmount: 0
   SpellScriptName: 
   specialSpellAmount: 0

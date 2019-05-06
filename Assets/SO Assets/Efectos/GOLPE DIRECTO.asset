@@ -10,20 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 76d9086567ae2f64ba7468cebe7fd239, type: 3}
-  m_Name: MECANISMO DA'HO
+  m_Name: GOLPE DIRECTO
   m_EditorClassIdentifier: 
   characterAsset: {fileID: 0}
-  Description: "PODEROSO MECANISMO DE LOS HAMBURES QUE PRODUCE GRAN DA\xD1O."
-  CardImage: {fileID: 21300000, guid: 5465a112031ae0241b323b0d6be6a0cb, type: 3}
-  CardBody: {fileID: 21300000, guid: 78c2fcac4ba4551419666342b7828dd4, type: 3}
-  AttackIcon: {fileID: 21300000, guid: d978d08d05564624b9996ca67358bab1, type: 3}
-  ShieldIcon: {fileID: 21300000, guid: 83515cca4e346ca4783f6ad794e671c4, type: 3}
+  Description: "DA\xD1A AL ENEMIGO CON 10 DE DA\xD1O."
+  CardImage: {fileID: 21300000, guid: 2b44358eaa8daee4a9be99d62e379184, type: 3}
+  CardBody: {fileID: 21300000, guid: 3272df608e8d90241839dbd187710156, type: 3}
+  AttackIcon: {fileID: 21300000, guid: c216f5b3aa6dace488d31a75cdbacde2, type: 3}
+  ShieldIcon: {fileID: 21300000, guid: 478d971aead27e34db575d42f8e54b12, type: 3}
   DestrezaIcon: {fileID: 0}
   IngenioIcon: {fileID: 0}
-  RecuadroIcon: {fileID: 21300000, guid: 05da5fd7a6b3fc64385613c994200a04, type: 3}
-  Condicion: 0
-  CardType: 4
-  MovementCost: 2
+  RecuadroIcon: {fileID: 21300000, guid: eccd4b949017f164fb000e39b9a1bc14, type: 3}
+  Condicion: 45
+  CardType: 1
+  MovementCost: 1
   MaxHealth: 0
   Attack: 0
   Escudo: 0
@@ -36,5 +36,5 @@ MonoBehaviour:
   CreatureScriptName: 
   specialCreatureAmount: 0
   SpellScriptName: DealDamageToTarget
-  specialSpellAmount: 80
-  Targets: 2
+  specialSpellAmount: 10
+  Targets: 5

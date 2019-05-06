@@ -34,7 +34,7 @@ MonoBehaviour:
   Soldier: 0
   Taunt: 0
   Charge: 0
-  CreatureScriptName: BiteOwner
+  CreatureScriptName: 
   specialCreatureAmount: 0
   SpellScriptName: 
   specialSpellAmount: 0

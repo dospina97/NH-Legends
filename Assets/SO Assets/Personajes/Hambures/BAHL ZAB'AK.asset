@@ -23,7 +23,7 @@ MonoBehaviour:
   RecuadroIcon: {fileID: 21300000, guid: 928d00c62da41844aa40a3fed56e09da, type: 3}
   Condicion: 0
   CardType: 4
-  MovementCost: 1
+  MovementCost: 2
   MaxHealth: 55
   Attack: 40
   Escudo: 35

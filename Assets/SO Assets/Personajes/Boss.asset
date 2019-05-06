@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0780860afb86e8a4bb61f4e6e2a40a38, type: 3}
-  m_Name: Rebelde
+  m_Name: Boss
   m_EditorClassIdentifier: 
-  Class: 0
-  ClassName: Rebel
-  MaxHealth: 400
+  Class: 1
+  ClassName: Boss
+  MaxHealth: 450
   HeroPowerName: HeroPower2Face
-  AvatarImage: {fileID: 21300000, guid: 10a5396d5f6aca349b7d6ced7106662b, type: 3}
-  HeroPowerIconImage: {fileID: 21300000, guid: a8eba2243ef5162418feeb88c06e5662, type: 3}
+  AvatarImage: {fileID: 0}
+  HeroPowerIconImage: {fileID: 21300000, guid: 9b3174f9c681a044aa3d56389b94302e, type: 3}
   AvatarBGImage: {fileID: 0}
   HeroPowerBGImage: {fileID: 0}
   AvatarBGTint:
@@ -28,7 +28,7 @@ MonoBehaviour:
     rgba: 0
   ClassCardTint:
     serializedVersion: 2
-    rgba: 4278588594
+    rgba: 0
   ClassRibbonsTint:
     serializedVersion: 2
     rgba: 0
